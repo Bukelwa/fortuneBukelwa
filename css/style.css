@@ -1,0 +1,112 @@
+
+
+h1 {
+  font-family:'Montserrat', sans-serif;
+  font-size: 45px;
+  text-align: center;
+}
+
+p {
+  font-family:'Montserrat', sans-serif;
+  font-size: 2.5em;
+  text-align: center;
+}
+.row{
+  margin:auto;
+  width:80%;
+
+}
+
+.cookie {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align:center;
+}
+.fortune-cookie{
+  height:120px;
+  width:auto;
+}
+ 
+
+.box {
+  height: auto;
+  background-color: #FFFFFF;
+  border: 5px solid rgb(167,209,213);
+  padding:30px ;
+  width:auto;
+}
+
+
+
+img{
+  height:70px;
+}
+.container{
+  padding:40px 0px;
+}
+header{
+  font-size:30px;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   
+   
+   font-size:10px;
+
+}
+.share-quote{
+  width:100%;
+  background-color:rgb(167,209,213);
+  color: black;
+  font-family:'Montserrat', sans-serif;
+  font-size:2em;
+
+}
+
+
+@media only screen and (max-width:600px) {
+
+
+h1 {
+  font-family:courier;
+  font-size: 50px;
+  text-align: center;
+}
+p {
+  font-family:courier;
+  font-size: 2em;
+  text-align: center;
+}
+.row{
+  margin:auto;
+  width:90%;
+
+}
+.fortune-cookie{
+  height:90px;
+  width:auto;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:rgba(39,63,135, 0.2);
+   color: white;
+   font-size:10px;
+
+}
+
+
+
+  }
+
+
+
+
+
+ 
